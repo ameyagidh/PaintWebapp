@@ -1,4 +1,3 @@
-```markdown
 # React Paint App
 
 https://paintmewebapp.netlify.app/
@@ -65,8 +64,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License.
-
-## About Me
-
-I'm a full stack developer...
-```
