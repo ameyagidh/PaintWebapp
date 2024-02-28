@@ -1,10 +1,7 @@
-# PaintWebapp
+```markdown
+# React Paint App
 
 https://paintmewebapp.netlify.app/
-
-
-![aa](https://github.com/ameyagidh/PaintWebapp/assets/65457905/13d9f494-1805-42f7-bdc3-bd1fa096e091)
-
 
 A simple paint application built with React, TypeScript, Tailwind CSS, and HTML5 Canvas.
 
@@ -68,3 +65,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License.
+
+## About Me
+
+I'm a full stack developer...
+```
