@@ -6,7 +6,8 @@ A simple paint application built with React, TypeScript, Tailwind CSS, and HTML5
 
 ## Demo
 
-You can try out the app live [here](https://paintmewebapp.netlify.app/).
+![8hp3yy](https://github.com/ameyagidh/PaintWebapp/assets/65457905/0e85a4fe-fec8-4e41-b028-6da7292f0cf1)
+
 
 ## Features
 
