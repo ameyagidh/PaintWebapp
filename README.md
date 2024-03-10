@@ -4,7 +4,9 @@ https://paintmewebapp.netlify.app/
 
 A simple paint application built with React, TypeScript, Tailwind CSS, and HTML5 Canvas.
 
-## Demo
+## Screenshots
+
+<img width="1496" alt="Screenshot 2024-03-10 at 4 25 02 PM" src="https://github.com/ameyagidh/PaintWebapp/assets/65457905/75e5d151-070d-48c7-91ed-d58b03d0bbe9">
 
 ![8hp3yy](https://github.com/ameyagidh/PaintWebapp/assets/65457905/0e85a4fe-fec8-4e41-b028-6da7292f0cf1)
 
